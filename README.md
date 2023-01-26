@@ -1,6 +1,14 @@
 # vue-localstorage
 
-This template should help get you started developing with Vue 3 in Vite.
+Esté aplicativo fue un reto para implementar Vuejs, FetchApi y Localstorage. Para esto se utilizo utilizo:
+
+- Vuejs (Composition API) 3.2.0
+- Bootstrap 5.3
+- Axios
+
+Adicionalmente: 
+- Localstorage
+- Gh-pages
 
 ## Recommended IDE Setup
 
@@ -32,4 +40,10 @@ npm run build
 
 ```sh
 npm run lint
+```
+
+### Gh-pages deploy
+
+```sh
+npm run deploy
 ```
