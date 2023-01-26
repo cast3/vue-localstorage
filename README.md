@@ -4,7 +4,7 @@ Esté aplicativo fue un reto para implementar Vuejs, FetchApi y Localstorage. Pa
 
 - Vuejs (Composition API) 3.2.0
 - Bootstrap 5.3
-- Axios
+- Axios 1.2.4
 
 Adicionalmente: 
 - Localstorage
