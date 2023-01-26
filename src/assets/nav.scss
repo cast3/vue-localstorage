@@ -1,0 +1,19 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+$White: rgb(255, 255, 255);
+$Black: rgb(0, 0, 0);
+$Button-hover: #ff8906;
+// Include any default variable overrides here (though functions won't be available)
+
+$theme-colors: (
+	'warning': $Button-hover,
+);
+
+$nav-pills-link-active-color: $Black;
+$nav-pills-link-active-bg: $Button-hover;
+$nav-link-color: $White;
+$nav-link-hover-color: $Button-hover;
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+// Then add additional custom code here

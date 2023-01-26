@@ -1,0 +1,18 @@
+#app {
+	padding: 3rem;
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	overflow: auto;
+	scrollbar-width: none;
+	box-sizing: border-box;
+	font-size: 16px;
+	font-weight: normal;
+	margin: 0 auto;
+	background-color: #111 !important;
+}
